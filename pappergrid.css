@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.navbar h2{
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 9px;
+   
+}
+
+.mainul{
+    
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    display: flex;
+    padding-left: 160px;
+    align-items: center;
+}
+.logo{
+  width: 150px; 
+  height: 60px;
+  cursor: pointer;
+  
+
+}
+.mainul ul{
+    color: #fff;
+    display: flex;
+   
+    
+}
+.mainul ul li{
+    list-style: none;
+    padding-left: 30px;
+}
+
+.logo2{
+   padding-left: 650px;
+   width: 25px;
+   height: 25px;
+   cursor: pointer;
+   
+
+}
+.container1{
+    height:420px;
+    width:100%
+}
+
+.row1{
+    display: flex;
+    padding: 30px;
+   margin-left: 140px;
+   
+}
+.photo1{
+    height:380px;
+    width:350px;
+    cursor: pointer;
+      
+}
+.photo2{
+    height:380px;
+    width:350px;
+    padding-left: 50px;
+    cursor: pointer;
+    
+
+
+}
+
+.photo3{
+    height: 380px;
+    width:350px;
+    padding-left:50px;
+    cursor: pointer;
+
+}
+.container2{
+    width:100%;
+    height:393px;
+}
+.row2{
+    display: flex;
+    margin-left:140px;
+    margin-top: 0px;
+   
+
+}
+ 
+.photo4{
+    height:380px;
+    width:350px;
+    padding-left:30px;
+    cursor: pointer;
+}
+.photo5{
+    height:380px;
+    width:350px;
+    padding-left:50px;
+    cursor: pointer;
+}
+.photo6{
+    height:380px;
+    width:350px;
+    padding-left:50px;
+    cursor: pointer;
+}
+.container3{
+    height:390px;
+    width:100%;
+}
+
+.row3{
+    display: flex;
+    margin-left:120px;
+}
+
+.photo7{
+    height:380px;
+    width:350px;
+    padding-left:50px;
+    cursor: pointer;
+}
+.photo8{
+    height:380px;
+    width:350px;
+    padding-left:50px;
+    cursor: pointer;
+}
+.photo9{
+    height: 380px;
+    width:350px;
+    padding-left:50px;
+    cursor: pointer;
+}
+.container4{
+    height:650px;
+    width:100%;
+  
+
+}
+.photo10{
+    height:520px;
+    width:400px;
+    margin-left:150px;
+    float: left;
+    padding-top: 70px;
+
+}
+.heading h3{
+    font-size: 25px;
+    line-height: 60px;
+  padding-top: 125px;
+  padding-left:620px;
+}
+.heading p{
+    font-size:20px;
+    padding-left:620px;
+
+}
+.container5{
+     width:100%;
+     height: 450px;
+     background-color: rgb(27, 23, 23);
+ 
+   
+    
+}
+.container5 ul li{
+    color:white;
+    text-align: center;
+    line-height: 40px;
+    font-size:18px;
+    text-decoration:underline;
+    cursor: pointer;
+   
+   
+}
+
+.lastbar p{
+   
+    color: aliceblue;
+  
+    font-size:15px;
+    margin-left:100px;
+  
+}
+.paragraph{
+    margin-top:212px;
+    cursor: pointer;
+    
+
+}
+
+ 
+  
+
+ 
+   
+
+.heading button{
+    background-color: black;
+    color: aliceblue;
+    width:140px;
+    height: 50px;
+    margin-left: 70px;
+    margin-top:25px;
+}
